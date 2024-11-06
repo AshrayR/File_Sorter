@@ -1,8 +1,8 @@
 # File_Sorter
-<br>
-the file_sorter.exe can be directly used
+
 <br>
 This Program sorts the files in the selected directory w.r.t the file type and creates subfolders depending on the number of files of each type. 
+(the file_sorter.exe can be directly used)
 <br>
 <h2>Project Overview:</h2>
 <br>
